@@ -1,3 +1,4 @@
+<img width="1304" height="697" alt="2026-05-30 02_11_37-Tic Tac Toe Game" src="https://github.com/user-attachments/assets/8edbdb6e-ea3f-4098-8d4c-45d6c6c13f9d" />
 # 🎮 Interactive Tic-Tac-Toe Game
 
 A classic, lightweight, and responsive **Tic-Tac-Toe** game built using Vanilla JavaScript, HTML5, and CSS3. This project demonstrates basic game logic, DOM manipulation, and responsive web design.
